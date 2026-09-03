@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/angel-daniel/Documentos/Visualización/Tarea1/build",
+  "command": "/usr/bin/c++  -I/home/angel-daniel/Documentos/Visualización/Tarea1/src -g -std=c++20 -Wall -Wextra -Wno-unused-parameter -Wnon-virtual-dtor -Wreorder -Wmaybe-uninitialized -Wunused-variable -o CMakeFiles/RayTracer.dir/src/main.cpp.o -c /home/angel-daniel/Documentos/Visualización/Tarea1/src/main.cpp",
+  "file": "/home/angel-daniel/Documentos/Visualización/Tarea1/src/main.cpp",
+  "output": "CMakeFiles/RayTracer.dir/src/main.cpp.o"
+}
+]

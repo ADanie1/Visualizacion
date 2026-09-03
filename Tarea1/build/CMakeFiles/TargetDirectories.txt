@@ -1,0 +1,3 @@
+/home/angel-daniel/Documentos/Visualización/Tarea1/build/CMakeFiles/RayTracer.dir
+/home/angel-daniel/Documentos/Visualización/Tarea1/build/CMakeFiles/edit_cache.dir
+/home/angel-daniel/Documentos/Visualización/Tarea1/build/CMakeFiles/rebuild_cache.dir
