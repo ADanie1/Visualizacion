@@ -9,4 +9,4 @@
 
 Resultado: La imagen optenida después de la ejecuación fue la siguiente
 
-![imagen de ejemplo](./result.png)
+![imagen resultado](result.png)
