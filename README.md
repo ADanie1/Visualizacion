@@ -12,3 +12,4 @@ calidad (resolución) de la imagen de referencia dada
 
 <img width="1200" height="675" alt="result" src="https://github.com/user-attachments/assets/76577fde-4617-4e12-9fd0-4202f22db218" />
 
+(nombre de la imagen: result.png)
