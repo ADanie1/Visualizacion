@@ -5,6 +5,7 @@
 ### Ayudantes:
 - Jorge Barragán Argüero
 - Ramón Arcos Morales
+
 **Alumno**: Olivares Pérez Ángel Daniel
 
 Resultado: La imagen optenida después de la ejecuación fue la siguiente, notando que la calidad si varió respecto a la 
