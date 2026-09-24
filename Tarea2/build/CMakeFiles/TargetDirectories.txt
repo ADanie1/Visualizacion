@@ -1,0 +1,3 @@
+/home/angel-daniel/Descargas/Tarea2/build/CMakeFiles/tarea2.dir
+/home/angel-daniel/Descargas/Tarea2/build/CMakeFiles/edit_cache.dir
+/home/angel-daniel/Descargas/Tarea2/build/CMakeFiles/rebuild_cache.dir
